@@ -6,6 +6,13 @@ I work in financial technology and enjoy complex problems where correctness and 
 
 ## Selected work
 
+### [Agentic Atlas](https://agentic-atlas.dev/)
+
+Field-tested patterns for designing agent systems, readable by people and
+consultable by agents over MCP.
+
+[Open Agentic Atlas](https://agentic-atlas.dev/) · [Connect an MCP client](https://agentic-atlas.dev/connect) · [Install the Claude Code companion plugin](https://github.com/aj604/agentic-atlas-plugin)
+
 ### [doc-lifecycle](https://github.com/aj604/toolshed)
 
 A Claude Code plugin that treats documentation as checkable claims. It detects drift between repository docs and code, produces evidence-backed reports, and proposes focused fixes.
